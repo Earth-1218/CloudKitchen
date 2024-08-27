@@ -1,0 +1,21 @@
+/project-root
+  ├── controllers
+  |   ├── item.js
+  │   ├── location.js
+  |   ├── login.js
+  |   ├── package.js
+  │   ├── profile.js
+  |   ├── register.js
+  ├── middlewares
+  |   ├── auth.js
+  ├── models
+  |   ├── User.js
+  │   ├── Country.js
+  |   ├── City.js
+  │   ├── State.js
+  |   |── Package.js
+  │   ├── Category.js
+  │   ├── Item.js
+  │   └── SpecialityLiveCounterOption.js
+  ├── .env
+  └── app.js main file
